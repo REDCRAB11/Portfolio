@@ -1,24 +1,21 @@
 {
   "files": {
-    "main.css": "/React/static/css/main.4897a586.css",
-    "main.js": "/React/static/js/main.71051e4b.js",
-    "static/media/JIN-CV.pdf": "/React/static/media/JIN-CV.12e6f96b25935717af75.pdf",
-    "static/media/work2.jpg": "/React/static/media/work2.10de931c7d4bf4974405.jpg",
-    "static/media/about.jpg": "/React/static/media/about.63120ca1e79e0a9bb292.jpg",
-    "static/media/profile.JPG": "/React/static/media/profile.63120ca1e79e0a9bb292.JPG",
-    "static/media/work1.jpg": "/React/static/media/work1.81f7ef9ba9e08848cf95.jpg",
-    "static/media/testimonial3.png": "/React/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
-    "static/media/testimonial2.png": "/React/static/media/testimonial2.39a53f7f092f07f5bceb.png",
-    "static/media/work4.jpg": "/React/static/media/work4.aee985961b648f4df1f2.jpg",
-    "static/media/work5.jpg": "/React/static/media/work5.094ec4a2224db8908873.jpg",
-    "static/media/work3.jpg": "/React/static/media/work3.135e9065694bc13dc31d.jpg",
-    "static/media/testimonial1.png": "/React/static/media/testimonial1.89079c1d25f2c94ceb89.png",
-    "index.html": "/React/index.html",
-    "main.4897a586.css.map": "/React/static/css/main.4897a586.css.map",
-    "main.71051e4b.js.map": "/React/static/js/main.71051e4b.js.map"
+    "main.css": "./static/css/main.12716da6.css",
+    "main.js": "./static/js/main.d97871f1.js",
+    "static/media/JIN-CV.pdf": "./static/media/JIN-CV.12e6f96b25935717af75.pdf",
+    "static/media/work2.jpg": "./static/media/work2.10de931c7d4bf4974405.jpg",
+    "static/media/about.jpg": "./static/media/about.63120ca1e79e0a9bb292.jpg",
+    "static/media/profile.JPG": "./static/media/profile.63120ca1e79e0a9bb292.JPG",
+    "static/media/work1.jpg": "./static/media/work1.81f7ef9ba9e08848cf95.jpg",
+    "static/media/work4.jpg": "./static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "./static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work3.jpg": "./static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "./index.html",
+    "main.12716da6.css.map": "./static/css/main.12716da6.css.map",
+    "main.d97871f1.js.map": "./static/js/main.d97871f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.4897a586.css",
-    "static/js/main.71051e4b.js"
+    "static/css/main.12716da6.css",
+    "static/js/main.d97871f1.js"
   ]
 }
