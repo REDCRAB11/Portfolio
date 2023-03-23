@@ -32,7 +32,7 @@
 
 
 
-#SERVICE
+# SERVICE
 
 ![스크린샷 2023-03-23 오후 7 05 18](https://user-images.githubusercontent.com/109942640/227169882-ae164ca1-d1d8-4442-84b6-d656e8b80e6d.png)
 
@@ -41,4 +41,9 @@
 ![스크린샷 2023-03-23 오후 7 05 53](https://user-images.githubusercontent.com/109942640/227170027-25ce4594-7693-4d8c-86c6-053300b85de9.png)
 
 ![스크린샷 2023-03-23 오후 7 06 07](https://user-images.githubusercontent.com/109942640/227170084-46467c7b-cd5c-4850-a38f-fadfe569f1e0.png)
+
+
+- 각각의 div를  grid-template-columns로 보기좋게 나누었습니다.
+- view more에 animation 효과를 넣어주었고, 이를 클릭하면 
+
 
