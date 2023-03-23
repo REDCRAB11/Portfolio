@@ -49,3 +49,19 @@
 - 모달의 닫기는 toggle을 활용하였습니다. index 번호를 부여하여 1,2,3번에 맞는 각각의 창을 닫을 수 있게 만들었습니다.  
 
 
+# QUALIFICATION
+
+![스크린샷 2023-03-23 오후 7 17 11](https://user-images.githubusercontent.com/109942640/227173025-e51a2e08-7faa-4317-9524-ef4894d98ccb.png)
+
+![스크린샷 2023-03-23 오후 7 17 14](https://user-images.githubusercontent.com/109942640/227173046-c7ef2096-1f4c-49f4-8757-226733b744b4.png)
+
+- Education과 Experience을 눌렀을 때 각각에 맞는 학력과 경력란이 나옵니다. 
+- 이러한 클릭 또한 toggle과 index에 번호를 부여하여 만들었습니다. 
+
+
+# PORTFOLIO
+
+![스크린샷 2023-03-23 오후 7 20 36](https://user-images.githubusercontent.com/109942640/227173796-7c8af354-f87b-4946-ac0d-2e9744fdef1f.png)
+
+- 이제까지 작업한 작업물을 보여주는 곳으로 작업물 상단에 분류는 usestate, 
+
