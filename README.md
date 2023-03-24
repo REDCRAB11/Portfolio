@@ -63,5 +63,14 @@
 
 ![스크린샷 2023-03-23 오후 7 20 36](https://user-images.githubusercontent.com/109942640/227173796-7c8af354-f87b-4946-ac0d-2e9744fdef1f.png)
 
-- 이제까지 작업한 작업물을 보여주는 곳으로 작업물 상단에 분류는 usestate, 
+- 이제까지 작업한 작업물을 보여주는 곳으로 작업물 상단에 분류는 useEffect를 사용하여 만들었습니다.
+- Address도 animation을 이용하여 움직이는 효과를 주었고, 클릭하면 해당 홈페이지로 넘어갑니다. 
 
+
+# CONTACT
+
+![스크린샷 2023-03-24 오후 4 00 00](https://user-images.githubusercontent.com/109942640/227448384-d7e2b0af-0be4-4c34-be78-7a045d1c606d.png)
+
+- 왼쪽에는 제 메일과 전화 인스타그램으로 이동할 수 있습니다. 
+- grid-template-columns을 이용하여 깔끔하게 만들었습니다. 
+- EmaillJs를 활용하여 제 메일로 메세지를 보낼 수 있습니다.
