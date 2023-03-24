@@ -1,6 +1,6 @@
 # 포트폴리오
 - React를 이용하여 만든 포트폴리오 사이트 입니다. 
-- url: https://redcrab11.github.io/React/
+- url: https://redcrab11.github.io/Portfolio/
 
 # HOME
 
